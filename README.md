@@ -1,2 +1,2 @@
-# projetos-HTML-CSS
-Este repositório abriga projetos de Front-End com HTML e CSS.
+# portfolio
+Este repositório abriga meu portifólio, desenvolvido com HTML e CSS.

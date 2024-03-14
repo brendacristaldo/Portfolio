@@ -1,11 +1,11 @@
 body{
-    background-color: black;
+    background-image: url('./css.png');
 };
 header{
-    background-color: red;
+    background-color: rgb(183, 0, 197);
 }
 footer{
-    background-color: red;
+    background-color: #411D89;
     color: white;
 }
 p{
@@ -14,19 +14,19 @@ p{
 }
 h1{
     font-family: Segoe UI;
-    text-shadow: 0 0 3px red, 2px 2px 8px red, 0 0 3px red, 2px 2px 8px red;
+    text-shadow: 0 0 3px rgb(183, 0, 197), 2px 2px 8px rgb(183, 0, 197), 0 0 3px rgb(183, 0, 197), 2px 2px 8px red;
     color: rgb(255, 196, 0);
     
 }
 
 h2{
     font-family: Segoe UI;
-    text-shadow: 0 0 3px red, 2px 2px 8px red, 0 0 3px red, 2px 2px 8px red;
+    text-shadow: 0 0 3px rgb(183, 0, 197), 2px 2px 8px rgb(183, 0, 197), 0 0 3px rgb(183, 0, 197), 2px 2px 8px rgb(183, 0, 197);
     color: rgb(255, 196, 0);
 }
 h3{
     font-family: Segoe UI;
-    color: red;
+    color: rgb(183, 0, 197);
 }
 nav{
     color: rgb(164, 249, 255);

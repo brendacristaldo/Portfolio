@@ -7,6 +7,7 @@ header{
 footer{
     background-color: #411D89;
     color: white;
+    margin-botton:20px; 
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

@@ -1,13 +1,24 @@
 body{
     background-image: url('./css.png');
+    width: 90%;
+    margin: 0;
 };
 header{
     background-color: rgb(183, 0, 197);
 }
+.container{
+    margin: 15px;
+}
 footer{
     background-color: #411D89;
     color: white;
-    margin-botton:20px; 
+    text-align: center;
+    margin: 50px -134px 0 0;
+    padding: 10px;
+}
+footer h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(164, 249, 255);
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -19,7 +30,6 @@ h1{
     color: rgb(255, 196, 0);
     
 }
-
 h2{
     font-family: Segoe UI;
     text-shadow: 0 0 3px rgb(183, 0, 197), 2px 2px 8px rgb(183, 0, 197), 0 0 3px rgb(183, 0, 197), 2px 2px 8px rgb(183, 0, 197);

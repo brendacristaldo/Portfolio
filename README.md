@@ -1,2 +1,3 @@
-# portfolio
-Este repositório abriga meu portifólio, desenvolvido com HTML e CSS.
+# Portfolio
+Bem vindx!
+Se chegou até aqui, espero que as suas expectativas se alinhem com as minhas habilidades, e que possamos nos conectar diretamente em breve :)
